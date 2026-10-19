@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm fseawf</h1>
 <h3 align="center">Learning to work with Git and other modern tools.</h3>
 
+<img src="[(https://img.shields.io/badge/pitiwiw%20wiw-purple?logo=pitiwiw%20wiw&logoColor=violet)]"
+
 - I like art, games, new things...
 
 - 🔭 Currently working on **HW**
