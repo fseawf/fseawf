@@ -17,7 +17,7 @@
 - ⚡ Забавный факт **oooops**<
 
 
-<p align="left"> Свяжитесь со мной: fseawfs@gmail.com </h3>
+<p align="left"> С чем работаю: </h3>
 </p>
 
 
