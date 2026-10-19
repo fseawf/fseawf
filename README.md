@@ -1,23 +1,17 @@
-<h1 align="center">Привет 👋, я fseawf</h1>
-<h3 align="center">Учусь работать с Git и другими современными инструментами.</h3>
+<h1 align="center">Hi 👋, I'm fseawf</h1>
+<h3 align="center">Learning to work with Git and other modern tools.</h3>
 
+- I like art, games, new things...
 
-- 🔭 Сейчас работаю над **HW**
+- 🔭 Currently working on **HW**
 
-- 🌱 Сейчас учусь **как пользоваться Git**
+- 🌱 Currently learning **how to work with Git**
 
-- 👯 Хочу поработать над **Git**
+- 📫 How to reach me **fseawfs@gmail.com**
 
-- 🤝 Ищу помощь с **Git**
+- ⚡ Fun fact **oooops**<
 
-- 💬 Спросите меня про ****
-
-- 📫 Как со мной связаться **fseawfs@gmail.com**
-
-- ⚡ Забавный факт **oooops**<
-
-
-<p align="left"> С чем работаю: </h3>
+<p align="left"> What I work with: </h3>
 </p>
 
 
