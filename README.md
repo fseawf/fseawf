@@ -2,7 +2,7 @@
 <h3 align="center">Learning to work with Git and other modern tools.</h3>
 
 <img src="https://img.shields.io/badge/pitwiw%20wiw-purple?logo=pitwiw%20wiw&logoColor=violet" />
-
+<img src="https://img.shields.io/badge/pitiwiw%20wiw-purple" />
 - I like art, games, new things...
 
 - 🔭 Currently working on **HW**
