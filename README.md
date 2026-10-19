@@ -1,32 +1,23 @@
 <h1 align="center">Привет 👋, я fseawf</h1>
 <h3 align="center">Учусь работать с Git и другими современными инструментами.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fseawf&label=Profile%20views&color=0e75b6&style=flat" alt="fseawf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fseawf" alt="fseawf" /></a> </p>
 
 - 🔭 Сейчас работаю над **HW**
 
 - 🌱 Сейчас учусь **как пользоваться Git**
 
-- 👯 Хочу поработать над **DD**
+- 👯 Хочу поработать над **Git**
 
-- 🤝 Ищу помощь с **DD**
+- 🤝 Ищу помощь с **Git**
 
-- 👨 💻 Все мои проекты доступны по адресу [no](no)
-
-- 📝 Я регулярно пишу статьи на [no](no)
-
-- 💬 Спросите меня про **ss**
+- 💬 Спросите меня про ****
 
 - 📫 Как со мной связаться **fseawfs@gmail.com**
-
-- 📄 Узнай о моём опыте [no](no)
 
 - ⚡ Забавный факт **oooops**<
 
 
-<p align="left"> Свяжитесь со мной:</h3>
+<p align="left"> Свяжитесь со мной: fseawfs@gmail.com </h3>
 </p>
 
 
